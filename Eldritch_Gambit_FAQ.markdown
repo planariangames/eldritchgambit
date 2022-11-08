@@ -32,3 +32,7 @@ This is the Frequently Asked Questions (FAQ) for Eldritch Gambit. Asking a quest
 
 
  So yes on most points, mixed on others.
+
+ ## If I put armor on, do I get the AP as HP right away?
+
+ - No, AP just goes towards your max HP, not current. You have to "grow into it" by Rallying. You do get to use your new armor's Rally dice to do this however.
