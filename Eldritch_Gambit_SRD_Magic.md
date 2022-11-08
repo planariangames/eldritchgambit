@@ -163,8 +163,8 @@ can disguise the unwilling. Dropping or dispelling reverts the target to
 their original form. *\[Range 0, Lasting\] Craft Check (*<span
 class="smallcaps">Cha</span> *vs. WP) to revise Description.*
 - **Edify:** grants expertise in a specific field. Gain the benefits of a
-supplemental Class or Origin until the Spell ends. *\[Range 0, Lasting\]
-Gain a Class or Origin until ended.*
+supplemental Career or Origin until the Spell ends. *\[Range 0, Lasting\]
+Gain a Career or Origin until ended.*
 - **Empathy:** gains insight from the minds of others. This halves the DF
 on Insight Checks vs. WP and allows the caster to detect a lie as an
 Outcome answer. *\[Range 2, Instant\] Half DF on Insight Checks, may
@@ -208,7 +208,7 @@ Act at range using <span style="text-transform:uppercase;">Cha</span> as <span
 class="smallcaps">Str</span>.*
 - **Imbue:** create Materia and Ephemera. This allows the use of the
 caster’s crafting-related OCS to create magic items related to it. For
-example, a Blacksmith Class could create magic weapons, armor, or tools.
+example, a Blacksmith Career could create magic weapons, armor, or tools.
 This takes up resources and a Crafting Montage, as well as a Quest if
 the item is a Materia. *\[Range 0, Instant\] Craft Ephemera and
 Materia.*
@@ -347,7 +347,7 @@ setting it may work better as an Artifact.
 | Cure     | 0     | Instant  | *Reduce Poison Buildup by 1d12 +<span style="text-transform:uppercase;">Cha</span>.*                           |
 | Deadeye  | 0     | Instant  | *If the Attack Fails, half AF on Gambit to succeed.*                                           |
 | Disguise | 0     | Lasting  | *Craft Check (*<span style="text-transform:uppercase;">Cha</span> *vs. WP) to revise Description.*             |
-| Edify    | 0     | Lasting  | *Gain a Class or Origin until ended.*                                                          |
+| Edify    | 0     | Lasting  | *Gain a Career or Origin until ended.*                                                          |
 | Empathy  | 0     | Instant  | *Half DF on Insight Checks vs. WP, may detect lies outright.*                                  |
 | Enfeeble | 1     | Lasting  | *Parley Check, target Rerolls any Rolls and takes lowest.*                                     |
 | Float    | 0     | Lasting  | *Negate fall & ground hazards, half DF on Moves vs. obstacles.*                                |

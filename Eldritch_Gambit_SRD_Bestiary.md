@@ -329,7 +329,7 @@ This is not a detailed bestiary; it is only a set of convenient examples
 to get you going.
 
 For unnamed NPCs, the title of each entry is their Template, with their
-Class behind a comma. For example, “Human, Peasant.” This gives them a
+Career behind a comma. For example, “Human, Peasant.” This gives them a
 d20 on anything they should know relating to either. For example, a
 “Squirrel” would get a d20 on gathering nuts, chattering, and scurrying
 but not for translating ancient languages or lying about gods. Only

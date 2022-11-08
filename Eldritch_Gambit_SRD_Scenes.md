@@ -113,11 +113,11 @@ when designing your own Actions or Montages.
 The first part of each Action or Montage just tells what it is and when
 you might use it. The Check or Roll tells you what Attributes and/or
 Defenses are *usually* involved. The OCS line tells what sort of
-Classes, Origins, or Skills (***OCS***) grant a d20. Next comes a list
+Careers, Origins, or Skills (***OCS***) grant a d20. Next comes a list
 of suggested outcomes:
 
 **Roll/Check:** Roll or Check, suggested stats. \
-**OCS:** Relevant Class, Origin, or Skill examples.
+**OCS:** Relevant Career, Origin, or Skill examples.
 
 {: .outcomes }
 >-   **Critical:** Success with an extra benefit!
@@ -156,7 +156,7 @@ character is doing and let *their* abilities fill in the rest.
 
 The combat-focused Actions (Attack, Grapple) all Check with a d20, at
 least for adventurers. Other Actions Check on a d12 unless the character
-has the right Origin, Class, or Skill (OCS) to support it.
+has the right Origin, Career, or Skill (OCS) to support it.
 
 When Initiative comes into play, an Action Scene splits into Rounds.
 Each Round, combatants get an Action as well as an extra Move Action
@@ -646,7 +646,7 @@ can take place before an event occurs, good or bad.
 Like Actions, it is fine to have Montages succeed without Checks. This
 is often the case for travel to a familiar area and other things that do
 not need to be played out. As usual, if one does not have the right
-Class, Origin, or Skill (OCS) for the Montage, the Check uses d12. If
+Career, Origin, or Skill (OCS) for the Montage, the Check uses d12. If
 they do, it uses d20.
 
 ###  Crafting
@@ -801,7 +801,7 @@ realize they would need.
 Characters can gain new Skills by sheer diligence. A new Skill takes up
 a number of training Montages equal to half their current Skills,
 rounded up. For example, someone with 5 Skills would need 3 Training
-Montages to get a new one. A teacher or mentor with a relevant Class,
+Montages to get a new one. A teacher or mentor with a relevant Career,
 Origin, or the same Skill makes each Montage count as two.
 
 ###  Travel

@@ -21,7 +21,7 @@ you please.
 
 1. **Level :** the overall power and experience of the
 character. Most groups start at Level 10.
-1. **Concept :** choose a Name, Class, Quest, Origin,
+1. **Concept :** choose a Name, Career, Quest, Origin,
 Template, and Description to give them a place in the game world.
 1. **Attributes :** set starting Strength,
 Dexterity, Wisdom, Agility, Charisma, and Endurance to give them power
@@ -90,7 +90,7 @@ adventure.
 
 Next, think about your character’s ***Concept***, the basic ideas you
 have about them before getting to their numbered stats. This breaks down
-into their ***Name, Class, Quest, Origin, Template,*** and
+into their ***Name, Career, Quest, Origin, Template,*** and
 ***Description***. If you are having a tough time choosing these now,
 you may choose later - even during the actual game! You will miss out on
 their benefits until then, however.
@@ -139,11 +139,11 @@ Sandalphon, Gruz, etc.*
 | 29  | Q       | Q, Quint, Qera…         |
 | 30  | X       | Xul, Xena, Xavier…      |
 
-### Class
+### Career
 
-What is your character’s primary career, talent, or calling? This
-reflects their style of intelligence, so Checks related to Class use a
-d20 instead of just a d12. Specific Class names are best; vague ones
+What is your character’s primary occupation, talent, or calling? This
+reflects their style of intelligence, so Checks related to Career use a
+d20 instead of just a d12. Specific Career names are best; vague ones
 like “Adventurer” might seem clever at first but rarely end up fitting a
 specific action. Adding a flavorful adjective helps make them unique and
 can even justify the d20 applying to more actions!
@@ -174,7 +174,7 @@ gnomes.*
 
 Everyone comes from somewhere, where does your character hail from?
 Origins should be strongly linked to the setting and may include
-formative events that bring them to this moment. These work like Classes
+formative events that bring them to this moment. These work like Careers
 but grant d20 for local knowledge and speaking their native language.
 
 One-shot games and dungeon-crawls without any reference to the outside
@@ -472,10 +472,10 @@ next Round when they recover their wits.
 
 ##  Skills
 
-These supplement Class and Origin, broadening the character and adding
+These supplement Career and Origin, broadening the character and adding
 flavor. Skills are very flexible and can stand for languages,
 privileges, unusual talents, even vices or flaws! Skills are more
-specific but not as serious as Classes or Origins, so have fun with
+specific but not as serious as Careers or Origins, so have fun with
 them!
 
 All characters can choose up to three Skills at the start, though they
@@ -484,7 +484,7 @@ leave some blank and choose them later. If a character reveals a
 suspiciously convenient Skill during play, they should make up a likely
 story about why they have it.
 
-Like Classes and Origin, broadly worded Skills may backfire if they are
+Like Careers and Origin, broadly worded Skills may backfire if they are
 not a good fit for the task. To prevent this, try to phrase Skills as
 “Verb-noun” combos such as “Assess treasure”, “Skin carcasses,” or
 “Speak Dwarvish.” If you are playing in a well-defined setting, there
@@ -506,7 +506,7 @@ any other aspect. It’s a bit much to deal with right out of the gate, so
 starting characters have the option of choosing from the list below to
 make things quick.
 
-Make sure you have any gear you need to do things related to your Class,
+Make sure you have any gear you need to do things related to your Career,
 Origin, and Skills. The Player may spend coins on other gear, and the
 Imp may grant more or less if it fits the character and setting. The
 Resources chapter  has more info.
@@ -521,7 +521,7 @@ question if it makes for a good game.
 
 -   One normal weapon of your choice .
 -   One normal armor of your choice .
--   A tool or item needed for your Class.
+-   A tool or item needed for your Career.
 -   Memento or trinket reflecting your Origin.
 -   Traveling clothes in your style.
 -   Backpack (bedroll, small cup, 10m rope, flint & steel, chalk, snacks
@@ -601,7 +601,7 @@ tough (+2 <span style="text-transform:uppercase;">End</span>), a capable fighter
 <span style="text-transform:uppercase;">Dex</span>), and decent everywhere else (+1
 <span style="text-transform:uppercase;">Wis & AGI & CHA</span>).
 
-With an invented Class of “Vengeful Dragon Slayer,” she knows all about
+With an invented Career of “Vengeful Dragon Slayer,” she knows all about
 dragons and hunting them down. This is a bit over-specialized, so Skills
 fill in the gaps. Her “escape bonds” Skill may have saved her and could
 even be used for breaking social bonds and traditions if her player is

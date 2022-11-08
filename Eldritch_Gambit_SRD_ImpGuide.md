@@ -427,7 +427,7 @@ through.
 If you still want perception or notice as a Check, you can easily house
 rule it. Congratulations (or condolences?), you are a game designer now!
 
-### Origin, Class, & Skills
+### Origin, Career, & Skills
 
 Rather than having a set list of abilities to choose from, Eldritch
 Gambit has free-form ones based on careers, backgrounds, or hobbies. The
@@ -441,7 +441,7 @@ This is especially true if other players have more specific ones to
 compare to. After all this, if you still see a wording as game-breaking,
 veto it and have the Player make up a better one.
 
-It is fine for an Imp to tell a Player their Class or Skill does not
+It is fine for an Imp to tell a Player their Career or Skill does not
 apply to a Check. If you think they are stretching it too far, the
 burden is on the Player to trick you into thinking otherwise. If this
 causes a lengthy argument, table it for discussion later.

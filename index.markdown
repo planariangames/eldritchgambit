@@ -37,15 +37,15 @@ allies.
 - **Engaging Combat:** Move? Attack? Cast a spell? Climb a huge monster?
 Provoke, subdue or disarm a foe? Rally back into action? Grapple? Guard
 an ally? Your call!
-- **Freeform Characters:** you decide their motive, where their talents
-lie, and what abilities make them outstanding.
+- **Freeform Characters:** No restrictive classes or feats. You decide their
+motive, where their talents lie, and what abilities make them outstanding.
 - **Freeform Experience:** decide for yourself what earns your character
 their power. Challenge them with a personal Quest!
 - **Gambits:** push your luck after success or failure to change fate with
 Gambits. You choose when to place yourself at the mercy of your dice!
-- **Item-based Magic:** those who wield enchanted items are capable of
-magic. Spells are for everyone and run the gamut from flashy combat
-techniques to overt necromancy.
+- **Item-based Magic:** those who wield enchanted items are capable of magic.
+Spells are for everyone, not restricted by level, and run the gamut from flashy
+ combat techniques to overt necromancy.
 - **Room to Grow:** the hacking tolerance of this ruleset means there is
 space for your additions!
 - **Volleyball Initiative:** combatants pass their next turns to each

@@ -65,7 +65,7 @@ To make a Check, roll 1d20 plus the relevant Attribute
 broadly competent and get a d20 for vital feats such as Attack
 and Grapple. Other
 actions require a relevant ***OCS***, standing for ***Origin***
-***Class***, or ***Skill***
+***Career***, or ***Skill***
 . If they do not have it, they use 1d12 instead.
 
 If the total result is at or above the action’s ***Difficulty Factor***
@@ -270,7 +270,7 @@ Wyvern noises and try to calm it…
 
 **Imp:** creative… but unlikely, so Check.
 
-*Mazzy rolls a mere d12 as he has no relevant Class, Origin, or Skill.
+*Mazzy rolls a mere d12 as he has no relevant Career, Origin, or Skill.
 He gets a 2, then adds his +3 <span style="text-transform:uppercase;">Cha</span> for a
 total of 5. The Wyvern’s WP is 12 so this fails. Bad luck!*
 
