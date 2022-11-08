@@ -616,7 +616,7 @@ her escape, or did she find it on his charred carcass later?
 
 {: .text-center }
 **ASPHODEL**
-<img src="images/Asphodel.png" />
+<img src="images/Asphodel.jpg" />
 
 ## Advancement
 
