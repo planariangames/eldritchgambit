@@ -37,7 +37,7 @@ allies.
 - **Engaging Combat:** Move? Attack? Cast a spell? Climb a huge monster?
 Provoke, subdue or disarm a foe? Rally back into action? Grapple? Guard
 an ally? Your call!
-- **Freeform Characters:** No restrictive classes or feats. You decide their
+- **Freeform Characters:** No restrictive classes or finicky features. You decide their
 motive, where their talents lie, and what abilities make them outstanding.
 - **Freeform Experience:** decide for yourself what earns your character
 their power. Challenge them with a personal Quest!

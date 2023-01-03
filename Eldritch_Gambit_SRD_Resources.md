@@ -115,6 +115,10 @@ column is the encumbrance it inflicts. HP loss does not imply the armor
 needs repair, only that it is disheveled until the wearer Rallies and
 sorts it out.
 
+Keep in mind that armor only raises max HP, not current. If one somehow dons
+armor mid-combat, they still need to Rally up to their new max HP to enjoy its
+full protection.
+
 One may wear less than the full set of armor. A partial set drops the
 effective armor type by one and a minimal set by two. For example, a
 chain mail shirt by itself counts as Leather.
@@ -186,7 +190,7 @@ to the wielder’s Clash damage Roll.
 Ammo is a balancing factor for ranged weapons, so Players should keep
 track of their own arrows, bolts, sling stones, etc. They may be
 opportunities to scrounge for missed or dropped ammo, and most Imps
-should be lenient there.
+should be lenient about this trivial matter.
 
 ### Standard Weapons
 

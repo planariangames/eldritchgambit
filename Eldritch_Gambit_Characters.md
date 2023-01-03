@@ -21,7 +21,7 @@ you please.
 
 1. **Level :** the overall power and experience of the
 character. Most groups start at Level 10.
-1. **Concept :** choose a Name, Career, Quest, Origin,
+1. ** :** choose a Name, Career, Quest, Origin,
 Template, and Description to give them a place in the game world.
 1. **Attributes :** set starting Strength,
 Dexterity, Wisdom, Agility, Charisma, and Endurance to give them power
@@ -633,7 +633,7 @@ time - it can be dramatic to save the day by powering up in the throes
 of a tense combat scene!
 
 No one is doomed by their advancement choices. The group can always work
-together later to revise unsatisfactory Concepts, Skills, or Attributes.
+together later to revise unsatisfactory s, Skills, or Attributes.
 
 ### Highlights XP
 

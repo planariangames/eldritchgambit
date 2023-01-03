@@ -80,9 +80,9 @@ more suitable Spell, however.
 ### Spell Descriptions
 
 The following covers many Spells that may or may not be available in
-your setting. Their titles are intentionally broad, intended as a base
-for creating better-described magic in your games. You can and should
-rename and “reskin” these to suit the setting.
+your setting. Their titles are intentionally generic, as they are just aspects
+ of the Materia or Ephemera they belong to. To make these more flavorful and
+ interesting, tie them to their item in a creative way.
 
 **LIST OF SPELLS**
 
@@ -101,6 +101,10 @@ class="smallcaps">Cha</span> Grapple versus the Roll of everyone in that
 Zone. This Grapples any losers as usual, but the Caster suffers no
 effect if they lose. *\[Range 0, Instant\] 1d8 +<span
 class="smallcaps">Cha</span> Grapple Roll vs. all in Zone.*
+- **Backlash:** unwary attackers will face retribution.
+The caster or target can use 1d12 +CHA on melee clashes instead of their usual weapon.
+Often uses an Element tag.
+*\[Range 0, Lasting\] 1d12 +CHA for melee clashes.*
 - **Burst:** fires a lethal spread over an area. This automatically hits
 everyone in the Zone, friend or foe, for 1d8 +<span
 class="smallcaps">Cha</span> damage. Elements can make this Spell more
@@ -173,11 +177,14 @@ detect lies outright.*
 and success means the target must reroll a single die from any Rolls
 (damage, Rally, casting dice, etc.) and take the lowest result. *\[Range
 1, Lasting\] Parley Check, target Rerolls any Rolls and takes lowest.*
+- **Flight:** fly through the air with great speed. Flight is at double normal
+speed in any direction. Easily overcomes most obstacles, falls, and ground
+hazards without a Check, half DF for the rest. *\[Range 0, Instant\] Fly in any
+ direction at double speed.*
 - **Float:** glide through the air with the greatest of ease. This easily
 overcomes most obstacles, falls, and ground hazards without a Move
 Check, and halves DF for the rest. Move actions may be in any direction,
-including up. Combining it with the Spring Spell mimics speedier flight.
-*\[Range 0, Lasting\] Negate fall & ground hazards, half DF on Moves vs.
+including up. *\[Range 0, Lasting\] Negate fall & ground hazards, half DF on Moves vs.
 obstacles.*
 - **Grease:** covers the ground with a slippery aura. This inflicts a 1d4
 +<span style="text-transform:uppercase;">Cha</span> penalty to nearly any action taken
@@ -225,6 +232,9 @@ a different Spell. This is a Check of <span style="text-transform:uppercase;">Ch
 vs. WP, with Success applying the Template to a willing target and a
 Critical to an unwilling one. *\[Range 0, Lasting\] Check <span
 class="smallcaps">Cha</span> vs. WP to replace Template.*
+- **Patch:** fills and bolsters a grievous injury, negating its effect
+temporarily. This works on anything that can Stagger, even undead and
+constructs. *\[Range 0, Lasting\] Negate Stagger while active.*
 - **Phase:** walk through solid objects and even people. This is a Move
 Action that automatically passes obstacles and walls but cannot end in a
 Zone filled with solid matter. It does not protect the caster from
@@ -278,9 +288,8 @@ next <span style="text-transform:uppercase;">Str</span> Roll with an extra die o
 same type. After the Roll, this Spell ends. *\[Range 0, Lasting\] Add a
 die to an upcoming <span style="text-transform:uppercase;">Str</span> Roll.*
 - **Spring:** leap into the air like a moon jump. This lets the caster or
-target Move up to two Zones in any direction, halving fall damage and DF
-for most obstacles. It is not flight unless combined with Float, as they
-must land at the end of the Round. *\[0, Instant\] Move two Zones in any
+target take their usual Move in any direction, halving fall damage and DF
+for most obstacles. The character must land each Round. *\[0, Lasting\] Move in any
 direction, halve fall damage and DF for obstacles.*
 - **Summon:** creates an obedient semi-real servant of the caster’s own
 design. Create an NPC with a total Threat (Base + Load) equal to ¼ the
@@ -335,10 +344,11 @@ setting it may work better as an Artifact.
 | Abjure   | 0     | Lasting  | *Incoming <span style="text-transform:uppercase;">Cha</span> vs. WP Spells need a Critical to take effect.*    |
 | Adhere   | 0     | Lasting  | *Half DF for climbing (Move) and Grapple Checks.*                                              |
 | Attract  | 0     | Instant  | *1d8+<span style="text-transform:uppercase;">Cha</span> Grapple Roll vs. all in Zone.*                         |
-| Burst    | 2     | Instant  | *Hit everyone in Zone for 1d8 + <span style="text-transform:uppercase;">Cha</span> damage.*                    |
+| Backlash | 0     | Lasting  | 1d12 +CHA for melee clashes. |
 | Barrier  | 1     | Lasting  | *Creates Hard Cover, obstacle DF is 10 +<span style="text-transform:uppercase;">Cha</span>.*                   |
 | Berserk  | 0     | Instant  | *Free Melee Attack afterward if a Felling Blow.*                                               |
 | Blast    | 2     | Instant  | *Ranged Attack, 1d12 +<span style="text-transform:uppercase;">Cha</span> damage.*                              |
+| Burst    | 2     | Instant  | *Hit everyone in Zone for 1d8 + <span style="text-transform:uppercase;">Cha</span> damage.*                    |
 | Cache    | 0     | Lasting  | *Store up to 10 +<span style="text-transform:uppercase;">Cha</span> Load.*                                     |
 | Charm    | 1     | Instant  | *Half DF for mundane <span style="text-transform:uppercase;">Cha</span> Checks.*                               |
 | Commune  | 0     | Lasting  | *Telepathically link up to 10 +<span style="text-transform:uppercase;">Cha</span> minds.*                      |
@@ -350,6 +360,7 @@ setting it may work better as an Artifact.
 | Edify    | 0     | Lasting  | *Gain a Career or Origin until ended.*                                                          |
 | Empathy  | 0     | Instant  | *Half DF on Insight Checks vs. WP, may detect lies outright.*                                  |
 | Enfeeble | 1     | Lasting  | *Parley Check, target Rerolls any Rolls and takes lowest.*                                     |
+| Flight   | 0     | Instant  | *Fly in any direction at double speed*                                                         |
 | Float    | 0     | Lasting  | *Negate fall & ground hazards, half DF on Moves vs. obstacles.*                                |
 | Grease   | 1     | Lasting  | *Zone turns slippery, inflicts 1d4 +<span style="text-transform:uppercase;">Cha</span> Penalty.*               |
 | Haste    | 0     | Lasting  | *Save an Action for later.*                                                                    |
@@ -360,6 +371,7 @@ setting it may work better as an Artifact.
 | Imperil  | 1     | Lasting  | *Parley Check to halve target’s AF.*                                                           |
 | Insulate | 0     | Lasting  | *half damage from Elements<span style="text-transform:uppercase;">.</span>*                                    |
 | Morph    | 0     | Instant  | *Check <span style="text-transform:uppercase;">Wis</span> vs. WP to replace Template.*                         |
+| Patch    | 0     | Lasting  | *Negate Stagger while active. |
 | Phase    | 0     | Instant  | *Move action that passes obstacles and walls.*                                                 |
 | Pierce   | 2     | Instant  | *Ranged Attack for target’s Rally die +<span style="text-transform:uppercase;">Cha</span> dmg.*                |
 | Protect  | 0     | Lasting  | *Felling blow does half damage.*                                                               |
@@ -370,7 +382,7 @@ setting it may work better as an Artifact.
 | Seeker   | 2     | Instant  | *Ranged Attack for 1d8 +<span style="text-transform:uppercase;">Cha</span> dmg, if a miss, half AF on Gambit.* |
 | Shell    | 0     | Lasting  | *Armor AP equal to 10 +<span style="text-transform:uppercase;">Cha</span>.*                                    |
 | Smite    | 0     | Lasting  | *Add a die to an upcoming <span style="text-transform:uppercase;">Str</span> Roll.*                            |
-| Spring   | 0     | Instant  | *Move two Zones in any direction, halve fall damage & DF for obstacles.*                       |
+| Spring   | 0     | Lasting  | *Move in any direction, halve fall damage & DF for obstacles.*                       |
 | Summon   | 0     | Lasting  | *Calls up creature with a total Threat (Base + Load) of ¼ caster Level.*                       |
 | Sustain  | 0     | Lasting  | *Cannot gain new Deprivation effects.*                                                         |
 | Teleport | 0     | Lasting  | *Sets a Zone that can be returned to instantly later.*                                         |
@@ -442,7 +454,7 @@ chest of the ill or maimed, its primordial warmth suffuses them with
 life. **Spell:** *Heal.*
 - **Flying Carpet:** a small fine carpet that unrolls and floats on
 command. If passengers also ride, their Load applies to the owner as if
-they were being carried. **Spells:** *Float, Spring.*
+carried. **Spells:** *Float, Flight.*
 - **Halo Cutter:** this glowing golden halo hovers over the bearer’s head,
 shedding light as a lamp. More importantly, it protects their soul from
 outside influences and can swoop out to dismember those who offend.

@@ -205,8 +205,9 @@ of physical “deal” - If the target drops it, they avoid the damage
 agrees to target them with their next Action (if possible), that foe
 avoids damage.
 - **Split Attacks** divide the Action into two attacks, each using a d12
-instead of a d20. These can use the same or different weapons. One
-cannot make a Split Attack while Staggered.
+instead of a d20. These can use the same or different weapons. Dual wielding
+matched one-handed weapons (i.e., two daggers, two hand axes) grant +2 to Hit
+on Split Attacks only and +2 Clash damage. One cannot make a Split Attack while Staggered.
 - **Subdual Attacks** knock a foe out. Non-stun weapons do half damage,
 but on a Felling blow, the target is Incapacitated instead of taking
 damage.
@@ -250,10 +251,9 @@ Attack. This avoids clashes and counters, but such an errant throw can
 only be made within the same Zone.
 
 As with Melee, Ranged Attacks can also be *Area, Disarm, Provoke,
-Split,* or *Subdual*, depending on the weapon. Split attacks can only be
-made with two different weapons or one that does not need a Load (Use)
-Action every firing. Otherwise, wielding multiple ranged weapons offers
-no benefit aside from a wider choice of attacks.
+Split,* or *Subdual*, depending on the weapon. Using an Action to reload a
+weapon spoils a Split attack, so rapid firing types will need to stick to
+thrown knives, bows, or multiple crossbows.
 
 ###  Dispel
 
@@ -361,11 +361,9 @@ These use their damage for the Grapple Roll.
 
 ### Guard
 
-This protects a more precious ally within the same Zone. The guarding
-character simply steps in as the target of an Attack made on someone
-else. This interrupts normal Initiative. An Attacker can get past a
-Guard with a Critical, but this only does regular damage (no *Bonus
-damage*) to the original target.
+This protects oneself or an ally in the same Zone from an Attack, halving the final damage.
+Anyone with an Action can Guard regardless of Initiative and can even use it to take a hit for someone else.
+This makes it harder to gang up on those with loyal allies, though the second attack of a Split Attack will get through.
 
 ### Insight
 
@@ -419,7 +417,7 @@ a Zone.
 This Action is special because everyone gets a ***Free Move*** before
 their Action. Using the Free Move then a Move Action is “running,” and
 crosses two Zones. A Free Move is never Checked and cannot pass an
-obstacle or trap – if they try, it becomes their regular Move Action.
+obstacle or trap.
 This slows those who did not take the quick and easy path.
 
 **Check:** none, or <span style="text-transform:uppercase;">Agi</span> vs. DF of the
@@ -582,7 +580,8 @@ The start of an encounter often presents the opportunity to Sneak up on
 or around foes. If this works the party can avoid them, eavesdrop, or
 launch a ***Surprise Attack***. The latter inflicts the Surprised
 Status: foes lose their Action that round and halve their AF. This lasts
-until next Round.
+until next Round. If the party was ambushed themselves, they do not have
+this option.
 
 Imps should only call for a single Sneak Check once during Action or
 Montage to remain unnoticed. More than this skews unfairly toward

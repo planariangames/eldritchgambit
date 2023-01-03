@@ -123,7 +123,7 @@ Wastes of Thaal, the Emerald Vale of the Sandworms, etc.*
 ### Overall Theme
 
 *What is it all about?* This is for describing the most meaningful
-features of your setting, whether it is an entire world, a city, or a
+features or general "vibe" of your setting, whether an entire world, a city, or a
 dungeon. There is not much space here, and this is intentional. These
 limits help focus what you are trying to get across. This may be
 influenced by the setting suggestions your group came up with earlier.

@@ -106,11 +106,13 @@ turning to ash in sunlight or a werewolf’s weakness to silver. Rare
 banes like silver are -1 Load, while something common like sunlight is
 -2. Exposure inflicts the Burning Status, meaning they cannot Rally and
 take 1d6 damage per Round.
+- **Construct:** an animated object. Immune to mortal Poison, Disease, and
+Deprivation but must Recover using a crafting-related OCS.
 - **Climb:** a body made for climbing such as a squirrel, caterpillar, or
 monkey. This halves the DF on Move Checks to climb obstacles or scale
 foes.
 - **Drain (Template):** absorb the life force of others. If *Staggered*,
-they may immediately clear this Status by inflicting the Fallen status
+they may immediately clear this Status by inflicting a Felling Blow
 on a living victim of the chosen Template. the draining attack must use
 either an unarmed bite or other specific method.
 - **Explosive:** explodes when defeated. Fallen creatures with this Trait
@@ -238,7 +240,8 @@ fair share of problems.
 | Attack (reach)       | 1        | +1 to hit, d6 <span style="text-transform:uppercase;">+Str</span> dmg, Reach.                                      |
 | Bane                 | -1 to -2 | Exposure to something inflicts Burning Status.                                                     |
 | Climb                | 1        | Half DF on Checks to climb (Move).                                                                 |
-| Drain (Template)     | 1        | Clear Staggered Status by inflicting Fallen on victims with this Template.                         |
+| Construct            | 1        | Ignore Deprivation, Poison & Disease and repair instead of Recovering. |
+| Drain (Template)     | 1        | Clear Stagger by inflicting a Felling blow on a member of that Template.                         |
 | Explosive            | 0        | Dies on a Felling Blow but Inflicts 1d8 +<span style="text-transform:uppercase;">End</span> damage on all in Zone. |
 | Fast                 | 1+       | Add a Zone to Move.                                                                                |
 | Flammable            | -1       | Any Fire element attacks inflicts Burning status until put out.                                    |
