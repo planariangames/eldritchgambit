@@ -420,7 +420,7 @@ fuel Materia.
 Poetry aside, the DF for this Crafting Check is the same as creating an
 item of its type, i.e., five plus the maximum on the damage or Rally
 die. This results in an item that grants one Spell. An item can be
-imbued with more than one Spell buy adding the max die again for each.
+imbued with more than one Spell by adding the max die again for each.
 Miscellaneous non-combat items like wands or capes typically count as
 1d4, making them prime targets for enchantment.
 
