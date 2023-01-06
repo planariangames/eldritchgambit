@@ -287,35 +287,6 @@ an Instant Spell requires the Wait option during Initiative. A Dispel is
 also effective in the gap between an Overcharge and the actual casting
 of an Instant Spell.
 
-###  Dodge
-
-A last-ditch defense that goes beyond relying on passive AF. Dodges can
-be made immediately after being Attacked, even interrupting a Split
-Attack to do so. Check AGI versus the result of the foe’s original
-Attack Check. If successful, the attack misses. If it fails, the attack
-resolves as it normally would.
-
-**Check:** <span style="text-transform:uppercase;">AGI</span> vs. Attack result. \
-**OCS:** All adventurers use d20 for Dodge.
-
-{: .outcomes }
->-   **Critical:** avoid attack & choose to inflict the *Countered* or
-    *Friendly fire* Botches on foe.
->-   **Success:** you evade your foe’s attack.
->-   **Failure:** your foe’s attack lands.
->-   **Botch:** *Stumble*, lose next Action getting up.
-
-This defensive Action is unusual because you can choose to Dodge even a
-*failed* melee Attack. This lets one avoid a clash-of-arms Roll-off,
-which is great if they are likely to lose such a vulgar contest of
-might.
-
-A Critical lets one Counter or apply the incoming damage as Friendly
-fire to another eligible target. An “Eligible” target means in the same
-Zone or line of fire. These work the same as the default Botches for
-ranged or melee Attacks, above. If these don’t apply, don’t go for a
-Critical or think up another way it could benefit the dodger.
-
 ###  Grapple
 
 This restrains or controls a foe with a grab, hold, pin, or throw.
