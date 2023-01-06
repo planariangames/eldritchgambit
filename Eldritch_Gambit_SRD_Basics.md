@@ -141,10 +141,10 @@ fellows.
 | Critical           | Effect                                                           |
 |----------------|--------------------------------------------------------|
 | Ahead of Schedule  | Takes around half the time it normally would.                    |
-| Assist Ally        | Turn an ally’s Failure or Botch into a Success.                  |
 | Bonus Damage       | Add max of one die as bonus to the damage Roll.                  |
 | Conserve Resources | Costs about half the usual materials or coin.                    |
-| Hinder foe         | Turn a foe’s Success or Critical into a Failure.                 |
+| Help Ally          |Improve their situation somehow, granting +2 to +4 to a Check if called for. |
+| Hinder Foe         | Turn a foe’s Success or Critical into a Failure.                 |
 | Leave No Trace     | Carefully avoid leaving evidence or clues for opponents to find. |
 | Make an Impression | Improve relationship with contact or other important NPC.        |
 | Super Effective    | Has about twice the usual effect or counts as two Successes.     |
@@ -160,7 +160,8 @@ fellows.
 | Countered       | Take retaliatory damage or other setback from target.                      |
 | Friendly fire   | Harm ally instead of target, target gets to choose which.                  |
 | Fumble          | Drop a weapon or other important item in combat, lose it if out of combat. |
-| Hinder Ally     | Turn an ally’s Success or Critical into a Failure.                         |
+| Hinder Ally	    |Worsen their situation somehow, inflicting -2 to -4 to a Check if called for.      |
+| Help Foe	        |Improve their situation somehow, granting +2 to +4 to a Check if called for.         |
 | Stumble         | Lose next Action or task takes around twice the time it normally would.    |
 | Waste           | Costs about twice the usual materials or coin.                             |
 
@@ -181,11 +182,12 @@ For example, a party would enjoy the guidance of their thief when
 sneaking, but a clumsy (low <span style="text-transform:uppercase;">Agi</span>) ally
 would still hinder them.
 
-### Helping Others
+### Helping and Hinder
 
-Explain how you helped, then grant your own Success to an ally if they
-Failed or Botched earlier. If you get a Critical, you both succeed. The
-latter is one of the standard Criticals (Assist ally), below.
+This should play out naturally.
+Explain what the character does either way, then find out how this changes the situation.
+For example, dropping a rope to allies climbing a wall, or cutting an enemy’s rope from above.
+If you still need a Check, maybe apply +2/-2 for a good idea or +4/-4 for a brilliant one.
 
 ## Procedures
 
