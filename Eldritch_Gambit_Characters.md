@@ -19,18 +19,18 @@ The following is a brief rundown of the steps to create a character in
 Eldritch Gambit. You may skip steps or take them in a different order if
 you please.
 
-1. **Level :** the overall power and experience of the
+1. **Level:** the overall power and experience of the
 character. Most groups start at Level 10.
-1. ** :** choose a Name, Career, Quest, Origin,
+1. **Concepts:** choose a Name, Career, Quest, Origin,
 Template, and Description to give them a place in the game world.
-1. **Attributes :** set starting Strength,
+1. **Attributes:** set starting Strength,
 Dexterity, Wisdom, Agility, Charisma, and Endurance to give them power
 over the game world.
-1. **Defenses :** set Willpower, Agility Factor, and
+1. **Defenses:** set Willpower, Agility Factor, and
 Hit Points to give them their defenses.
-1. **Skills :** choose up to 3 specific freeform
+1. **Skills:** choose up to 3 specific freeform
 talents to round them out and add interest.
-1. **Gear :** buy or choose weapons, armor, and other
+1. **Gear:** buy or choose weapons, armor, and other
 items to properly equip them.
 
 A player may start even without having chosen all their Concepts,
