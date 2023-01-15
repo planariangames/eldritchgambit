@@ -298,7 +298,7 @@ design. Create an NPC with a Threat Base equal to the Caster’s level divided b
  include their own Innate Summon Spells.  A
 summon disappears when fallen or dispelled but can be resummoned. Design
 this creature outside of game time as not to interrupt play. *\[Range 0,
-Lasting\] Calls up creature with a total Threat (Base + Load) of ¼
+Lasting\] Calls up creature with a Threat of ¼
 caster Level.*
 - **Sustain:** fuels the needs of the body. Those under this Spell do not
 suffer from thirst, hunger, fatigue, or suffocation. This Spell does not
