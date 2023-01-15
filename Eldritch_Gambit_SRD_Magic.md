@@ -292,9 +292,10 @@ target take their usual Move in any direction, halving fall damage and DF
 for most obstacles. The character must land each Round. *\[0, Lasting\] Move in any
 direction, halve fall damage and DF for obstacles.*
 - **Summon:** creates an obedient semi-real servant of the caster’s own
-design. Create an NPC with a total Threat (Base + Load) equal to ¼ the
-caster’s Level, rounded up as usual. Their Template must have the
-*Unstable* Trait (-2 Load) and cannot have Summon Spells of their own. A
+design. Create an NPC with a Threat Base equal to the Caster’s level divided by
+ four, rounded up as usual. They can take on Load from Traits up to their Threat
+ base, but their Template must have the Unstable Trait (-2 Load) and cannot
+ include their own Innate Summon Spells.  A
 summon disappears when fallen or dispelled but can be resummoned. Design
 this creature outside of game time as not to interrupt play. *\[Range 0,
 Lasting\] Calls up creature with a total Threat (Base + Load) of ¼
@@ -383,7 +384,7 @@ setting it may work better as an Artifact.
 | Shell    | 0     | Lasting  | *Armor AP equal to 10 +<span style="text-transform:uppercase;">Cha</span>.*                                    |
 | Smite    | 0     | Lasting  | *Add a die to an upcoming <span style="text-transform:uppercase;">Str</span> Roll.*                            |
 | Spring   | 0     | Lasting  | *Move in any direction, halve fall damage & DF for obstacles.*                       |
-| Summon   | 0     | Lasting  | *Calls up creature with a total Threat (Base + Load) of ¼ caster Level.*                       |
+| Summon   | 0     | Lasting  | *Calls up creature with Threat Base of ¼ caster Level.*                       |
 | Sustain  | 0     | Lasting  | *Cannot gain new Deprivation effects.*                                                         |
 | Teleport | 0     | Lasting  | *Sets a Zone that can be returned to instantly later.*                                         |
 | Vanish   | 0     | Instant  | *Soft Cover (-4 to hit), Sneak Check at half DF.*                                              |
